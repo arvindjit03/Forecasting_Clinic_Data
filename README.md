@@ -1,5 +1,5 @@
 # Forecasting_Clinic_Data
-This is a dummy project for learning.  
+This is a dummy project for self learning.  
 
 Data used: Clinic data  
 
